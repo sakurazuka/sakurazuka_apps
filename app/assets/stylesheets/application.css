@@ -22,3 +22,7 @@
   text-align: right;
 }
 
+.my_affix.affix {
+  position: fixed;
+  top: 0;
+}
